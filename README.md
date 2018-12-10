@@ -4,4 +4,5 @@ Electrical assembly configurator
 - metal boxes for outlets;
 - panels&load centers;
 - conduit bend.
-<img src="![android_scr1](https://user-images.githubusercontent.com/43278778/49736397-0706ae00-fc58-11e8-84fe-9bcec30151fa.png)" wigth="20" hight="20">
+
+![android](https://user-images.githubusercontent.com/43278778/49737580-3ec32500-fc5b-11e8-8044-95aba4910cd5.jpg)
