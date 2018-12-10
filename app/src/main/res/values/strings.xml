@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Assembly Order</string>
+
+    <string-array name="Connectors">
+        <item>NONE</item>
+        <item>38 AST</item>
+        <item>3838 AST</item>
+        <item>40 AST</item>
+        <item>4040 AST</item>
+        <item>3/4 EMT</item>
+        <item>1 EMT</item>
+        <item>1 1/4 EMT</item>
+
+    </string-array>
+
+    <string-array name="mc_type">
+        <item>NONE</item>
+        <item>10/2</item>
+        <item>12/2</item>
+        <item>12/3</item>
+    </string-array>
+
+    <string-array name="mc_jacket">
+        <item>NONE</item>
+        <item>HCF</item>
+        <item>Steel</item>
+        <item>Aluminum</item>
+    </string-array>
+
+    <string-array name="conduit_type">
+        <item>NONE</item>
+        <item>GRC</item>
+        <item>EMT</item>
+
+    </string-array>
+
+    <string-array name="conduit_size">
+        <item>NONE</item>
+        <item>1/2 in</item>
+        <item>3/4 in</item>
+        <item>1 in</item>
+        <item>1 1/4 in</item>
+    </string-array>
+
+</resources>
