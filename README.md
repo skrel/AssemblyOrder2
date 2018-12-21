@@ -1,3 +1,5 @@
+[![Downloads](https://img.shields.io/badge/configurator-v1.0-orange.svg)
+
 # AssemblyOrder2
 android studio project
 Electrical assembly configurator
